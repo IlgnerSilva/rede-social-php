@@ -16,11 +16,9 @@
 <div class="sidebar"></div>
 
 <div class="form-container-login">
-
     <div class="logo-chamada-login">
-    
-        <img src="<?php echo INCLUDE_PATH_STATIC ?>images/logodanki.svg" />
-        <p>Conecte-se com seus amigos e expanda seus aprendizados com a rede social Danki Code.</p>
+    <h1 style="color: #490695;">A REDE</h1>
+            <p>Conecte-se com seus amigos e expanda seus aprendizados com a nova rede social.</p>
         
 
     </div><!--logo-chamada-login-->
